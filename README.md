@@ -95,7 +95,7 @@ I am especially passionate about the digitization of interactive media, mobile f
   
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CianMW&show_icons=true&theme=radical" />
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CianMW&theme=radical&layout=compact" />  
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CianMW&theme=radical&layout=compact" />  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CianMW&theme=radical&hide_border=true&stroke=0000&background=060A0CD0">
   
     
