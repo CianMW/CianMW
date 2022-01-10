@@ -1,7 +1,13 @@
-# Hello World <img src="https://tenor.com/view/happy-earth-day-cool-earth-happy-earth-kissy-earth-crying-laughing-earth-gif-21162043.gif" width="30px"/>
+# Hello World  <img src="https://c.tenor.com/jPYNf2GLrB8AAAAd/earth-earthday.gif" width="30px"/>
 <div style="display:flex" >
 
 </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CianMW&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CianMW&theme=radical" />
+<div style="display:flex; align-items: center; justify-content: space-around">
+<div>
+<img  src="https://github-readme-stats.vercel.app/api?username=CianMW&show_icons=true&theme=radical" />
+</div>
+<div>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CianMW&theme=radical&layout=compact" />
+</div>
+</div>
 
