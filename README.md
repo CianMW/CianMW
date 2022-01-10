@@ -5,8 +5,6 @@
 <div style="display:flex; align-items: center; justify-content: space-around">
 <div>
 <img  src="https://github-readme-stats.vercel.app/api?username=CianMW&show_icons=true&theme=radical" />
-</div>
-<div>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CianMW&theme=radical&layout=compact" />
 </div>
 </div>
