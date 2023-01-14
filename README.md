@@ -6,7 +6,7 @@ I am Cian Markwick a web developer from Ireland 🇮🇪 , now based in Glasgow 
 I am especially passionate about the digitization of interactive media, mobile first development and human centric design. 
 
 **Want to know more about me and my projects?**
-You can check out my portfolio here: https://cian-markwick-developer.herokuapp.com/
+You can check out my portfolio here: https://cian-markwick-developer-jfnnn.ondigitalocean.app/
 
 ## My languages and tools
 <p align="left">
